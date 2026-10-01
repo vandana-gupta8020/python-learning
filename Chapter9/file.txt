@@ -1,0 +1,4 @@
+There are 2 types of files:
+1. Text files (.txt, .c etc)
+2. Binary files (.jpg, .dat, etc)
+- Python has a lot of functions for reading, updating, and deleting files.

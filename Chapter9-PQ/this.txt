@@ -1,0 +1,7 @@
+=> ✅ Quick Tips:
+
+- for and while → loops
+- if, elif, else → conditionals (decision-making)
+- def → defining your own function
+- Anything ending in () is usually a function call
+- with → special construct for managing resources
